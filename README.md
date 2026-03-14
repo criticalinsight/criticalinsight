@@ -6,33 +6,30 @@ I am currently focused on **Cloudflare Apps**, **Gleam Language**, and **autonom
 
 ---
 
-## 🚀 The Sovereign Stack
-
-My primary research and development focus is on building a fully self-contained, local-first stack for intelligent systems.
+## ⚡ Active Projects (Chronological)
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[GleamDB](https://github.com/criticalinsight/gleamdb)** | 🧠 **Analytical Datalog Engine.** A distributed, logic-based database featuring Native Sharding, Deterministic Identity, and Raft consensus. Built for high-read-throughput agentic workloads. | `Gleam`, `OTP`, `Mnesia` |
-| **[Gswarm](https://github.com/criticalinsight/gswarm)** | 🐝 **Swarm Simulation Fabric.** A distributed runtime for autonomous trading agents. Demonstrates "Silicon Saturation" (10k+ ops/sec) and democratic partitioning. | `Gleam`, `GleamDB` |
-| **[NERD](https://github.com/criticalinsight/nerd)** | 🧪 **Experimental Language.** A programming language designed for agentic workflows, featuring a Hickey-inspired runtime and sovereign memory models. | `Rust`, `Gleam` |
+| **[Clawhub](https://github.com/criticalinsight/clawhub)** | 🌐 **Identity Hub.** Decentralized identity and agentic coordination hub. | `TypeScript`, `Node.js` |
+| **[AJUX CMS](https://github.com/criticalinsight/ajux-cms)** | 📰 **Headless CMS.** Content orchestration and management for AJUX. | `Elixir`, `Node.js`, `React` |
+| **[Pure Beam Gateway](https://github.com/criticalinsight/pure-beam-gateway)** | 🚪 **API Gateway.** High-performance gateway for BEAM systems. | `Elixir`, `OTP` |
+| **[GleamDB](https://github.com/criticalinsight/gleamdb)** | 🧠 **Analytical Datalog.** Distributed database for agentic workloads. | `Gleam`, `OTP`, `Mnesia` |
+| **[Gleam Docs MCP](https://github.com/criticalinsight/gleam-docs-mcp)** | 📚 **MCP Server.** Documentation discovery and agentic integration for Gleam. | `Gleam`, `MCP` |
+| **[Gswarm](https://github.com/criticalinsight/gswarm)** | 🐝 **Swarm Fabric.** Distributed runtime for autonomous trading agents. | `Gleam`, `OTP` |
+| **[NERD](https://github.com/criticalinsight/nerd)** | 🧪 **Experimental Language.** Designed for sovereign agentic workflows. | `Rust`, `Gleam` |
+| **[Amkabot](https://github.com/criticalinsight/amkabot)** | 💸 **Arbitrage Bot.** High-frequency market analysis and execution. | `Python`, `Docker` |
+| **[Subs](https://github.com/criticalinsight/subs)** | 💳 **Payments.** Subscription management and recurring orchestration. | `Gleam`, `Stripe` |
+| **[Sly](https://github.com/criticalinsight/sly)** | 🛠️ **CLI Tool.** Rapid project scaffolding and context injection. | `Gleam` |
 
 ---
 
-## 🛠️ Applications & Tools
+## 🔬 Core Philosophy
 
-| Project | Role |
-| :--- | :--- |
-| **[Amkabot](https://github.com/criticalinsight/amkabot)** | High-frequency arbitrage bot and market analysis tool. |
-| **[Subs](https://github.com/criticalinsight/subs)** | Subscription management and recurring payment orchestration (formerly *Bouncer*). |
-| **[Sly](https://github.com/criticalinsight/sly)** | CLI tool for rapid project scaffolding and context injection. |
-
----
-
-## 🔭 Philosophy
-
-My work is guided by specific architectural principles:
-- **Local-First**: Systems should operate fully without internet, syncing when possible.
-- **Deterministic Identity**: Data identity should be intrinsic to the content, not the location.
-- **Agentic Sovereignty**: Software should own its lifecycle, protecting its state against external chaos.
-
----
+```text
+┌────────────────────────────────────────────────────────────────────────────┐
+│ 1. LOCAL-FIRST: Systems must operate without internet, syncing when ready. │
+│ 2. DETERMINISTIC IDENTITY: Data identity is intrinsic to content.          │
+│ 3. AGENTIC SOVEREIGNTY: Software owns its lifecycle and state.             │
+│ 4. DE-COMPLECTING: Simplicity via separation of concerns and immutability. │
+└────────────────────────────────────────────────────────────────────────────┘
+```
