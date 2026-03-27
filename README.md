@@ -8,17 +8,14 @@ I am currently focused on **Cloudflare Apps**, **Gleam Language**, and **autonom
 
 ## ⚡ Active Projects (Chronological)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
 
-| **[AJUX CMS](https://github.com/criticalinsight/ajux-cms)** | 📰 **Headless CMS.** Content orchestration and management for AJUX. | `Elixir`, `Node.js`, `React` |
-| **[Pure Beam Gateway](https://github.com/criticalinsight/pure-beam-gateway)** | 🚪 **API Gateway.** High-performance gateway for BEAM systems. | `Elixir`, `OTP` |
-| **[GleamDB](https://github.com/criticalinsight/gleamdb)** | 🧠 **Analytical Datalog.** Distributed database for agentic workloads. | `Gleam`, `OTP`, `Mnesia` |
-| **[Gleam Docs MCP](https://github.com/criticalinsight/gleam-docs-mcp)** | 📚 **MCP Server.** Documentation discovery and agentic integration for Gleam. | `Gleam`, `MCP` |
-| **[Gswarm](https://github.com/criticalinsight/gswarm)** | 🐝 **Swarm Fabric.** Distributed runtime for autonomous trading agents. | `Gleam`, `OTP` |
-| **[NERD](https://github.com/criticalinsight/nerd)** | 🧪 **Experimental Language.** Designed for sovereign agentic workflows. | `Rust`, `Gleam` |
-| **[Amkabot](https://github.com/criticalinsight/amkabot)** | 💸 **Arbitrage Bot.** High-frequency market analysis and execution. | `Python`, `Docker` |
-| **[Sly](https://github.com/criticalinsight/sly)** | 🛠️ **CLI Tool.** Rapid project scaffolding and context injection. | `Gleam` |
+| **[AJUX CMS](https://github.com/criticalinsight/ajux-cms)** |
+| **[Pure Beam Gateway](https://github.com/criticalinsight/pure-beam-gateway)** |
+| **[GleamDB](https://github.com/criticalinsight/gleamdb)** | 
+| **[Gleam Docs MCP](https://github.com/criticalinsight/gleam-docs-mcp)** |
+| **[Gswarm](https://github.com/criticalinsight/gswarm)** |
+| **[NERD](https://github.com/criticalinsight/nerd)** |
+| **[Amkabot](https://github.com/criticalinsight/amkabot)** | 
 
 ---
 
