@@ -6,16 +6,16 @@ I am currently focused on **Cloudflare Apps**, **Gleam Language**, and **autonom
 
 ---
 
-## ⚡ Active Projects (Chronological)
+## ⚡ Active Projects
 
 
-| **[AJUX CMS](https://github.com/criticalinsight/ajux-cms)** |
-| **[Pure Beam Gateway](https://github.com/criticalinsight/pure-beam-gateway)** |
-| **[GleamDB](https://github.com/criticalinsight/gleamdb)** | 
-| **[Gleam Docs MCP](https://github.com/criticalinsight/gleam-docs-mcp)** |
-| **[Gswarm](https://github.com/criticalinsight/gswarm)** |
-| **[NERD](https://github.com/criticalinsight/nerd)** |
-| **[Amkabot](https://github.com/criticalinsight/amkabot)** | 
+| **[AJUX CMS](https://github.com/criticalinsight/ajux-cms)** 
+| **[Pure Beam Gateway](https://github.com/criticalinsight/pure-beam-gateway)** 
+| **[GleamDB](https://github.com/criticalinsight/gleamdb)** 
+| **[Gleam Docs MCP](https://github.com/criticalinsight/gleam-docs-mcp)** 
+| **[Gswarm](https://github.com/criticalinsight/gswarm)** 
+| **[NERD](https://github.com/criticalinsight/nerd)** 
+| **[Amkabot](https://github.com/criticalinsight/amkabot)** 
 
 ---
 
